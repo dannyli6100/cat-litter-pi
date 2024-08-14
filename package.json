@@ -2,8 +2,10 @@
   "dependencies": {
     "express": "^4.19.2",
     "http": "^0.0.1-security",
+    "node-media-server": "^2.7.0",
     "node-rtsp-stream": "^0.0.9",
     "node-webrtc": "^0.0.0",
+    "pi-camera-connect": "^0.3.4",
     "react-native-webrtc": "^124.0.3",
     "simple-peer": "^9.11.1",
     "socket.io": "^4.7.5",
